@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 96949efb820eb6247be5b524cfa3cb33
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flappy Bird 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16794c65a8a5a7d4a977e293bb8c3df5
+      internalID: -1512584426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 238
+        width: 154
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602f23b9ab71615438ce3326a10f4e47
+      internalID: -2095681503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 121
+        width: 26
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f1aeef9561424b8acb8ae2cb27495
+      internalID: -832983495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 135
+        width: 26
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba2dbba6fc5a24a9997af0aae47b1a
+      internalID: 1639133479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 249
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7416edb75f9324da34b268bf8e3738
+      internalID: 17595800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 140
+        width: 113
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd50b2565eb4be14686559789e798ade
+      internalID: -1994706227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 180
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b9dab7c47fe94448e594604d9fde09
+      internalID: -1784234523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_10
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 184
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d31ee4bf0d0fa469404054b18228f4
+      internalID: 52191499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_11
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 175
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c922ef4b851c60a4db9c637e64ba9d66
+      internalID: -1790937597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 154
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d13ae0281c0a849b038771c543b9c8
+      internalID: 2066604798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 158
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e34c566b14f5740840a8b7e06abefc
+      internalID: -1015544051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 146
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5855a977a62429d44aa2093f52437bca
+      internalID: -1159652822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 141
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a42ee2ee86f184abc02ae322a8c507
+      internalID: 2060635208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 118
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d4ed7204c05f4dbd4dff24ad8d28b
+      internalID: 361742111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 120
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4749e5b2d0835e14e8baf20074eb1fdb
+      internalID: 1761054936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 124
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ffa115ca461c48a6bef518d046174
+      internalID: 471598872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 128
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c555e903988f646a2a25fc9e3d6a65
+      internalID: 29587766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 109
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16de5fedc2ee308429be8a15aa22d5b4
+      internalID: -1100154887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 108
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2aa3cc159eb864fa0e767db7b366d8
+      internalID: 1195444078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 112
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a722da71dffd46af48ce0b68d7d37
+      internalID: 434639901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_24
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 97
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5166bd6d4903104f87a9e9b5c242206
+      internalID: -678009281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 85
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e1d3f8d1418a6418e4db8e1b1d2bbb
+      internalID: -808979447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 93
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647e22b99f04801448556b0d2da7c5b9
+      internalID: 497418129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 90
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e27f747e8a83c46a7e4d535409e785
+      internalID: -274265001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 92
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0461f3833c980c46b1416b161622d0a
+      internalID: -646861694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9db78a705e34440bf3e889f8ab5fa2
+      internalID: 1389785635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 61
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1adede2489417134ca764142fbe7a892
+      internalID: 1816617158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 64
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2828b70748f3e84caada83dabb2a23e
+      internalID: 460719906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 69
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa0da9e475889f48852c84baf852298
+      internalID: 66947470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 73
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d63009127e3294d8a4c21917cdde0e
+      internalID: 991615242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35212f82b1b24b4ea0d0cd128acc927
+      internalID: -775855724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_37
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 38
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c951c9fc22f16945ad0aa03cf3bdc75
+      internalID: 1695464953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 45
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5673d291d91beba40bd79c7f85d813b9
+      internalID: -1451115308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6d66870a4315b46aa36dd22db59dda
+      internalID: -1583303962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e3851c5fb3e1e4eba93e9483b8d2f4
+      internalID: 1184341430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_42
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 29
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d7e27c50b4b74b9f4a8eecd4030e0
+      internalID: -67235664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_43
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fe4794fd94fb5438d216f16b79ef08
+      internalID: -1299252900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_44
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 36
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bda3bfe0b40594db9b3070d09f0168
+      internalID: 1845728893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 13
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72359cd8a70da4a4daa02cd4f34c972f
+      internalID: -1548988513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_47
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c370f4700a0166488ec15294eb5ec04
+      internalID: 1394916888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_48
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0f92ed302c9034db6a9a0d35702b61
+      internalID: -445557732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b7e72201eaa4445b52fadc6d6f7b7b
+      internalID: -1652209049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_50
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4248bd08f8e3f514b8b3190b9a5e9d13
+      internalID: 1099883309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_51
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dd2d33889320e4eb1263232cd2dcb4
+      internalID: 2136896359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbbe39a41ac6834a990aa3932f161d0
+      internalID: -1438619336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f806b5ae31860a49acff4ff3a92d7a0
+      internalID: -155680401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_54
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185007e18ddc4394cbb0b0f8fd582571
+      internalID: -1735285418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_55
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f56892f1f396c499df862ec0ffa3ed
+      internalID: 1912306605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 142
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa220d97990c6f6419b173dbc42eae93
+      internalID: -568566005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_5
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 87
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec1802e656c06a4c9a70b7315bcde03
+      internalID: 135471918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 61
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b037bfd8847446744add283ae339c63c
+      internalID: -1581328627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591b07d6c5b554745b901c5ec3661aed
+      internalID: 1213594128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_30
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 16
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd84d46fa2e73843b53ae8d0259b903
+      internalID: -900568412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 4
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffb649a067b894d9dcc43db68db7be
+      internalID: -495535471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3e27c5bfc658b4e90c92ed97e6c606
+      internalID: -1828479593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ffcd81eb98a64397ded993b6caf1c
+      internalID: 401190955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_56
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d986638593850af468bfc6dd96138bf1
+      internalID: 1911857511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flappy Bird 1_57
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 248
+        width: 95
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dfcd255d99c0941aee51989667b5ae
+      internalID: 183103194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flappy Bird 1_0: -1512584426
+      Flappy Bird 1_1: -2095681503
+      Flappy Bird 1_10: 52191499
+      Flappy Bird 1_11: -1790937597
+      Flappy Bird 1_12: 1213594128
+      Flappy Bird 1_13: 2066604798
+      Flappy Bird 1_14: -1015544051
+      Flappy Bird 1_15: -1159652822
+      Flappy Bird 1_16: 2060635208
+      Flappy Bird 1_17: 361742111
+      Flappy Bird 1_18: 1761054936
+      Flappy Bird 1_19: 471598872
+      Flappy Bird 1_2: -832983495
+      Flappy Bird 1_20: 29587766
+      Flappy Bird 1_21: -1100154887
+      Flappy Bird 1_22: 1195444078
+      Flappy Bird 1_23: 434639901
+      Flappy Bird 1_24: -678009281
+      Flappy Bird 1_25: -808979447
+      Flappy Bird 1_26: 497418129
+      Flappy Bird 1_27: -274265001
+      Flappy Bird 1_28: -646861694
+      Flappy Bird 1_29: 1389785635
+      Flappy Bird 1_3: 1639133479
+      Flappy Bird 1_30: -900568412
+      Flappy Bird 1_31: 1816617158
+      Flappy Bird 1_32: 460719906
+      Flappy Bird 1_33: 66947470
+      Flappy Bird 1_34: 991615242
+      Flappy Bird 1_35: -495535471
+      Flappy Bird 1_36: -775855724
+      Flappy Bird 1_37: 1695464953
+      Flappy Bird 1_38: -1451115308
+      Flappy Bird 1_39: -1583303962
+      Flappy Bird 1_4: -568566005
+      Flappy Bird 1_40: 1184341430
+      Flappy Bird 1_41: -1828479593
+      Flappy Bird 1_42: -67235664
+      Flappy Bird 1_43: -1299252900
+      Flappy Bird 1_44: 1845728893
+      Flappy Bird 1_45: 401190955
+      Flappy Bird 1_46: -1548988513
+      Flappy Bird 1_47: 1394916888
+      Flappy Bird 1_48: -445557732
+      Flappy Bird 1_49: -1652209049
+      Flappy Bird 1_5: 135471918
+      Flappy Bird 1_50: 1099883309
+      Flappy Bird 1_51: 2136896359
+      Flappy Bird 1_52: -1438619336
+      Flappy Bird 1_53: -155680401
+      Flappy Bird 1_54: -1735285418
+      Flappy Bird 1_55: 1912306605
+      Flappy Bird 1_56: 1911857511
+      Flappy Bird 1_57: 183103194
+      Flappy Bird 1_6: -1581328627
+      Flappy Bird 1_7: 17595800
+      Flappy Bird 1_8: -1994706227
+      Flappy Bird 1_9: -1784234523
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
